@@ -95,45 +95,7 @@
     <Cell ss:StyleID="s64"><Data ss:Type="String">isBigGun</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapon.pistol</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/soviet/makarov_black</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/soviet/makarov_black</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"/>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapon.shotgun</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/shotgun</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/shotgun</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"/>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapon.rifle</Data><NamedCell
+    <Cell ss:StyleID="s65"><Data ss:Type="String">weapon.thompson1928</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/soviet/AK47_colour</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
@@ -150,93 +112,6 @@
     <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s65"><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s66"/>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapon.sniper</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/soviet/SVD_black</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/soviet/SVD_black</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="12.75">
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapon.machinegun</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/soviet/PK_black</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/soviet/PK_black</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="12.75">
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapon.rocketlauncher</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/soviet/RPG7_colour</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/soviet/RPG7_colour</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:Hidden="1">
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapon.DHVRL</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/misc/DHVRLSclosed</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/misc/DHVRLSclosed</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">ballistic</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="Boolean">1</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="Number">150</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="Number">50</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="Number">1</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="Number">100</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="Number">10</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="Number">4</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="Number">2</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">ammo.rocket</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="Number">1</Data></Cell>
-    <Cell ss:Index="16"><Data ss:Type="String">Rockets</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
