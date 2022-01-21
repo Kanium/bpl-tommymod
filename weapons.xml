@@ -97,9 +97,9 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s65"><Data ss:Type="String">weapon.thompson1928</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/soviet/AK47_colour</Data><NamedCell
+    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/thompson1928</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/soviet/AK47_colour</Data><NamedCell
+    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/thompson1928</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s65"><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
