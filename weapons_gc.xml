@@ -12,7 +12,7 @@
 		<GUIImage name="gui/weapons/thompson1928.png"/>
 		<GroundImage name="grounditemimages/ballistic_ak.png"/>
 		<Ammos>
-			<Ammo name="ammo.ballistic.rifle" type="kinetic" damage="30" mitigation="0">
+			<Ammo name="ammo.ballistic.thompson1928" type="kinetic" damage="30" mitigation="0">
 				<Projectile spectre="projectiles/bullet/bullet" speed="1500" showAfterDistance="60.0"/>
 				<Impact spectre="particles/bulletplume/bulletplume"/>
 			</Ammo>
