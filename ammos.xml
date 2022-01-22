@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Ammos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <Ammo name="ammo.ballistic.thompson1928">
+    <Ammo MODMERGEATTRIBUTE="name" MODMERGE="insert" name="ammo.ballistic.thompson1928">
         <stockTextureName>weapons/ballistic/thompson1928_ammo</stockTextureName>
         <dragTextureName>weapons/ballistic/thompson1928_ammo</dragTextureName>
         <slotsizex>1</slotsizex>
