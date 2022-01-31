@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Sounds>
+	<General>
+		<!-- Thompson 1928 single shot -->
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Thompson1928 Single" volume="1.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_thompson1928_single_1.ogg</Wave>
+		</Sound>
+		<!-- Thompson 1928 burst fire -->
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Thompson1928 Burst" volume="2.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_thompson_burst_1.ogg</Wave>
+		</Sound>
+	</General>
+</Sounds>
