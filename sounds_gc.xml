@@ -7,7 +7,7 @@
 		</Sound>
 		<!-- Thompson 1928 burst fire -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Thompson1928 Burst" volume="2.0" group="1" comment="">
-			<Wave>audio/sfx/weapons/weapon_thompson_burst_1.ogg</Wave>
+			<Wave>audio/sfx/weapons/weapon_thompson1928_burst_1.ogg</Wave>
 		</Sound>
 	</General>
 </Sounds>
